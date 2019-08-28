@@ -9,5 +9,5 @@ jobs:
     - name: PullRequestHandler
       uses: Ash258/Scoop-GithubActions@stable
       env:
-        GITH_EMAIL: 43350117+ProfElements@users.noreply.github.com
+        GITH_EMAIL: youremail@email.com
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
