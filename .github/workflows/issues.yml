@@ -9,5 +9,5 @@ jobs:
     - name: IssueHandler
       uses: Ash258/Scoop-GithubActions@stable
       env:
-        GITH_EMAIL: youremail@email.com
+        GITH_EMAIL: 43350117+ProfElements@users.noreply.github.com
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
