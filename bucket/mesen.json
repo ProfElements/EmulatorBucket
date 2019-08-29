@@ -1,0 +1,15 @@
+{
+    "version": "0.9.8",
+    "description": "A high-accuracy NES and Famicom emulator and NSF player for Windows and Linux.",
+    "homepage": "https://mesen.ca/",
+    "license": {"identifier": "GPL-3.0"},
+    "url": "https://github.com/SourMesen/Mesen/releases/download/0.9.8/Mesen.0.9.8.zip",
+    "hash": "cf040795ed3c5605f8ff7215119c203d7649392828a9c843b5693c6ab82ac438",
+    "bin": "Mesen.exe",
+    "shortcuts": [
+        [
+            "mesen.exe",
+            "mesen"
+        ]
+    ]
+}
