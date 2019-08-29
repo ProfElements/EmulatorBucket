@@ -1,0 +1,16 @@
+{
+    "version": "0.9.15",
+    "description": "Sega Saturn emulator",
+    "homepage": "https://yabause.org",
+    "license": {"identifier": "GPL"},
+    "url": "https://download.tuxfamily.org/yabause/releases/0.9.15/yabause-0.9.15-win64.zip",
+    "hash": "",
+    "extract_dir": "yabause-0.9.15-win64",
+    "bin": "yabause.exe",
+    "shortcuts": [
+        [
+            "yabause.exe",
+            "yabause"
+        ]
+    ]
+}
