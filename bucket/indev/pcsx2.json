@@ -1,0 +1,15 @@
+{
+    "version": "1.4.0",
+    "description": "PS2 emulator that is still being developmented and maintained",
+    "homepage": "https://pcsx2.net",
+    "license": {"identifier": "LGPL"},
+    "url": "",
+    "hash": "",
+    "bin": "",
+    "shortcuts": [
+        [
+            ".exe",
+            ""
+        ]
+    ]
+}
