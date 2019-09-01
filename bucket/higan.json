@@ -1,0 +1,16 @@
+{
+    "version": "106",
+    "description": "A multi-system emulator that is quite large.",
+    "homepage": "https://higan.byuu.org/",
+    "license": {"identifier": "Unknown"},
+    "url": "https://download.byuu.org/higan_v106-windows.7z",
+    "hash": "4c7f45fa1a14c04d6e4a8d276b67376078800131a06eaed506ed44616a0e63be",
+    "extract_dir":"higan_v106-windows",
+    "bin": "higan.exe",
+    "shortcuts": [
+        [
+            "higan.exe",
+            "higan"
+        ]
+    ]
+}
