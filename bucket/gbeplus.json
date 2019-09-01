@@ -1,5 +1,5 @@
 {
-    "version": "1.3",
+    "version": "1.3.7",
     "description": "A gameboy trying to emulate ALL the peripherals for the gameboy",
     "homepage": "https://github.com/shonumi/gbe-plus",
     "license": {"identifier": "GPL-2.0"},
