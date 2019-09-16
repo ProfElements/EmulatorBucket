@@ -5,7 +5,7 @@
     "license": {"identifier": "Unknown"},
     "notes": "You need to add the cores yourself",
     "url": "https://buildbot.libretro.com/stable/1.7.8/windows/x86_64/RetroArch.7z",
-    "hash": "a8ac2f2a8e8988ebbcc2face6c1b7efa1c310209cf13f2613762d41923a45998",
+    "hash": "1cf9db40565054dd33b485a336d0f4408fdc8ef0af86df3878834d55e6b908a3",
     "bin": "retroarch.exe",
     "shortcuts": [
         [
