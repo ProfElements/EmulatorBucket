@@ -1,11 +1,11 @@
 {
-    "version": "0.7.3",
+    "version": "0.8-b1",
     "description": "A gb, gbc, and gba emulator supporting some of the peripherals that the gba had.",
     "homepage": "https://mgba.io",
     "license": {"identifier": "MPL-2.0"},
-    "url": "https://github.com/mgba-emu/mgba/releases/download/0.7.3/mGBA-0.7.3-win64.7z",
-    "extract_dir": "mGBA-0.7.3-win64",
-    "hash": "552045a351f9f3a3728e9b5988069bbba2d5a277fe24898a2be7c2ee94892ee4",
+    "url": "https://github.com/mgba-emu/mgba/releases/download/0.8-b1/mGBA-0.8-b1-win64.7z",
+    "extract_dir": "mGBA-0.8-b1-win64",
+    "hash": "5718c23b3df97629684046ca4feb08557dcfc8789084d7f8cf8cb19088cc3cc5",
     "bin": "mGBA.exe",
     "shortcuts": [
         [
