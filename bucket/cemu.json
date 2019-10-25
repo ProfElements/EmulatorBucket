@@ -1,12 +1,12 @@
 {
-    "version": "1.15.16",
+    "version": "1.15.17",
     "description": "Experimental software to emulate Wii U applications on PC",
     "homepage": "http://cemu.info/index.html",
     "license": {"identifier": "Unknown"},
     "notes": "Closed Source >> Some may have a problem with it.",
-    "url": "http://cemu.info/releases/cemu_1.15.16.zip",
-    "hash": "29166a58c874f27ec145ea5602f1287d5e145d5d024b84dbdafc1398c0912cde",
-    "extract_dir": "cemu_1.15.16",
+    "url": "http://cemu.info/releases/cemu_1.15.17.zip",
+    "hash": "",
+    "extract_dir": "cemu_1.15.17",
     "bin": "Cemu.exe",
     "shortcuts": [
         [
