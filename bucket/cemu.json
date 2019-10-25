@@ -5,7 +5,7 @@
     "license": {"identifier": "Unknown"},
     "notes": "Closed Source >> Some may have a problem with it.",
     "url": "http://cemu.info/releases/cemu_1.15.17.zip",
-    "hash": "",
+    "hash": "317a34a15765e411d476464338d210eeca16b36c3e1401ea1f2096b0fa5a159f",
     "extract_dir": "cemu_1.15.17",
     "bin": "Cemu.exe",
     "shortcuts": [
