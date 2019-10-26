@@ -1,11 +1,11 @@
 {
-    "version": "1.7.9",
+    "version": "1.8.0",
     "description": "A frotend for all the libretro cores.",
     "homepage": "http://www.retroarch.com",
     "license": {"identifier": "Unknown"},
     "notes": "You need to add the cores yourself",
-    "url": "https://buildbot.libretro.com/stable/1.7.9/windows/x86_64/RetroArch.7z",
-    "hash": "2a257646e8600f95c8c90527349732825da58e2a71128c06da9adf796880db5d",
+    "url": "https://buildbot.libretro.com/stable/1.8.0/windows/x86_64/RetroArch.7z",
+    "hash": "53f470a48a14b644f163997904eeeedeb5499d32989d3cc0a83c15b86dec4d25",
     "bin": "retroarch.exe",
     "shortcuts": [
         [
