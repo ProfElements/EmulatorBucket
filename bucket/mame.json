@@ -3,8 +3,8 @@
     "description": "A multi system arcade emulator",
     "homepage": "https://www.mamedev.org",
     "license": {"identifier": "GPL-2.0"},
-    "url": "https://github.com/mamedev/mame/releases/download/mame0214/mame0214b_64bit.exe#/dl.7z",
-    "hash": "344bd790957f1334d1c94159ae1a0da81fcc90dfdb4f8beb4b6b9a3aca79941a",
+    "url": "https://github.com/mamedev/mame/releases/download/mame0215/mame0215b_64bit.exe#/dl.7z",
+    "hash": "50b0b8bc8323868da0997b611e6111b6964b4a8564b592cc7ab34e69573fc123",
     "bin": "mame64.exe",
     "shortcuts": [
         [
