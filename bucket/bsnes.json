@@ -1,11 +1,11 @@
 {
-    "version": "113",
+    "version": "114",
     "description": "SNES emulator that focuses on performance, features, and ease of use.",
     "homepage": "https://bsnes.byuu.org/",
     "license": {"identifier": "GPL-3.0"},
-    "url": "https://download.byuu.org/bsnes_v113-windows.zip",
-    "extract_dir": "bsnes_v113-windows",
-    "hash": "049140794a71d58a915eac25376a724b6142d8c22737cde8c2033d50ef5cf98b",
+    "url": "https://download.byuu.org/bsnes_v114-windows.zip",
+    "extract_dir": "bsnes_v114-windows",
+    "hash": "29996e3c9afa88d0d8829e0d3567879f77eae7a680c31330dcdcf17bcb745576",
     "bin": "bsnes.exe",
     "shortcuts": [
         [
