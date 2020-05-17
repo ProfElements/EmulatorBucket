@@ -1,10 +1,10 @@
 {
-    "version": "1.24.1",
+    "version": "1.24.3",
     "description": "A high performance and accurate multi-system emulator",
     "homepage": "https://mednafen.github.io/",
     "license": {"identifier": "Unknown"},
-    "url": "https://mednafen.github.io/releases/files/mednafen-1.24.1-win64.zip",
-    "hash": "ad3a7906521f0ce45737c2f0f7ea1117799548e60d10a746ac74ddd26d944cbb",
+    "url": "https://mednafen.github.io/releases/files/mednafen-1.24.3-win64.zip",
+    "hash": "abcb3d6f037c4b69f82b6d1b01e80e727bfd6f54bdc9cae78a4167e1d9c6240c",
     "bin": "mednafen.exe",
     "shortcuts": [
         [
